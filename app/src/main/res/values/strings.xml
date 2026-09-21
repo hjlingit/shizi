@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">识字乐园</string>
+    <string name="learn">学一学</string>
+    <string name="play">玩一玩</string>
+    <string name="rabbit">小兔子</string>
+    <string name="next">下一个</string>
+    <string name="again">再听一遍</string>
+    <string name="correct">真棒！答对了！</string>
+    <string name="wrong">再试试看～</string>
+</resources>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 兔子头 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,55 a24,26 0 0 1 48,0 l0,2 a24,26 0 0 1 -48,0 z" />
+    <!-- 左耳 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,55 Q36,26 46,22 Q54,30 50,55 z" />
+    <!-- 右耳 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M68,55 Q72,26 62,22 Q54,30 58,55 z" />
+    <!-- 左耳内粉 -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M42,50 Q40,30 46,27 Q51,33 48,50 z" />
+    <!-- 右耳内粉 -->
+    <path
+        android:fillColor="#FFB6C1"
+        android:pathData="M66,50 Q68,30 62,27 Q57,33 60,50 z" />
+    <!-- 眼睛 -->
+    <circle
+        android:fillColor="#4A4A4A"
+        android:cx="44"
+        android:cy="52"
+        android:r="3" />
+    <circle
+        android:fillColor="#4A4A4A"
+        android:cx="64"
+        android:cy="52"
+        android:r="3" />
+    <!-- 鼻子 -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:pathData="M53,58 q2,2 0,3.5 q-2,-1.5 0,-3.5 z" />
+    <!-- 腮红 -->
+    <ellipse
+        android:fillColor="#FFB6C1"
+        android:cx="38"
+        android:cy="60"
+        android:rx="4"
+        android:ry="2.5" />
+    <ellipse
+        android:fillColor="#FFB6C1"
+        android:cx="70"
+        android:cy="60"
+        android:rx="4"
+        android:ry="2.5" />
+</vector>
